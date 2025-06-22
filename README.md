@@ -5,8 +5,9 @@
 To build a reliable logistic regression model that accurately predicts loan default risk, enabling LoanTap to make faster, smarter underwriting decisions and offer customized loan products with reduced credit risk.
 
 ## 📝 Project Report
--You can access the complete project python file here - Python
--You can access the complete project in pdf format here - Report
+-You can access the complete project python file here - [Python](https://github.com/nikhilsree5/LoanTapBusinessCase/blob/main/LoanTap_BusinessCase.ipynb)
+
+-You can access the complete project in pdf format here - [Report](https://github.com/nikhilsree5/LoanTapBusinessCase/blob/main/LoanTap_BusinessCase.pdf)
 
 ## 📚 About Data
 
